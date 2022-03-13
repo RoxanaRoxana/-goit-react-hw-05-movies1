@@ -1,0 +1,12 @@
+.NavBar{
+    display: flex;
+    padding-left: 20px;
+
+    border-bottom: solid 2px gray;
+}
+
+.NavLink{
+    padding-right: 15px;
+    text-decoration: none;
+    color: black;
+}

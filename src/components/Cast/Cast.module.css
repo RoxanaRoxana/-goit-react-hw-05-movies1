@@ -1,0 +1,23 @@
+.CastListItemPhoto{
+    width: 100px;
+    height: 150px;
+}
+
+.CastItemPhoto{
+    height: 100%;
+    width: 100%;
+}
+
+.CastInfo{
+    display: flex;
+    flex-direction: column;
+}
+
+.CastListItem{
+    margin-bottom: 15px;
+}
+
+.NameSpan{
+    padding-top: 5px;
+    padding-bottom: 2px;
+}

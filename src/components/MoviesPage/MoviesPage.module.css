@@ -1,0 +1,23 @@
+.Form{
+    margin-top: 5px;
+}
+
+.ReturnButton{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-image: url('./arrow.png');
+    background-size: 20%;
+  background-repeat: no-repeat;
+  background-position: left;
+   opacity: 1;
+    border-radius: 2px;
+    border: 1px solid ;
+}
+
+.ButtonText{
+    display: flex;
+    font-size: 10px;
+    margin-left: 10px;
+    font-weight: 600;
+    align-items: center;
+}

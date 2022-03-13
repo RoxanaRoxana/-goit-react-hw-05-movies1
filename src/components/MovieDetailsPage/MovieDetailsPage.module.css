@@ -1,0 +1,29 @@
+.MoviePoster{
+    height: 300px ;
+    width: 200px;
+}
+
+.MoviePosterPhoto{
+    width: 100%;
+    height: 100%;
+}
+
+.MovieDetails{
+    display: flex;
+    border-bottom: 2px solid gray;
+    padding-bottom: 10px;
+
+}
+
+.MovieInformation{
+width: 80%;
+padding-left: 15px;
+}
+
+.MovieOverview{
+    font-size: 15px;
+}
+
+.AddInf{
+    border-bottom: 2px solid gray;
+}
